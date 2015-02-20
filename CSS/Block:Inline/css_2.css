@@ -1,0 +1,20 @@
+p{
+	background-color: gray;
+
+}
+
+a{
+	background-color: yellow;
+	/*display: block;*/
+}
+
+ul{
+	background-color: blue;
+	display: inline;
+	list-style-type: none
+}
+
+ul li{
+	background-color: green;
+	display: inline;
+}

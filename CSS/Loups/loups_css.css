@@ -1,0 +1,86 @@
+html{
+	background-color: #eeeeee;
+	font-family: "Times New Roman";
+}
+
+#wrapper{
+	background-color: #eeeeee;
+	}
+
+/* ALL DIVS */
+
+#div-container{
+	background-color: #eeeeee;
+	padding:10px 20px 20px 10px;
+	width: 970px;
+}
+
+#header{
+	display: block;
+	background-color: #dddddd;
+	border-radius: 15px;
+	height: 70px;
+	margin-bottom: 20px;
+	padding: 2px 15px 20px 15px;	
+	font-size: 25px;
+	line-height: 100%;
+
+}
+
+#left{
+	display: inline-block;
+	background-color: #dddddd;
+	width: 27%;
+	margin-right: 20px;
+	border-radius: 15px;
+
+
+}
+
+#right{
+	display: inline-block;
+	background-color: #aaaaaa;
+	width: 67%;
+	border-radius: 15px;
+	vertical-align: top;
+	padding: 20px 15px;
+	font-size: 17px;
+
+}
+
+#footer{
+	display: block;
+	background-color: #dddddd;
+	border-radius: 20px;
+	padding: 7px 20px;
+	margin: 30px 0;
+}
+
+/* ALL TEXT COLORING */
+
+.selected{
+	color: purple;
+}
+
+.blue{
+	color:blue;
+}
+
+/* MISC */
+
+.whales{
+	list-style-type: none;
+	margin-left: -20px;
+}
+
+ul ul li {
+	margin-left: -25px;
+}
+
+li {
+	padding: 1.5px 0;
+}
+
+.bold{
+	font-weight: bold;
+}

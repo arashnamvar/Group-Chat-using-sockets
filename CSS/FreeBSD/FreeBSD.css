@@ -1,0 +1,231 @@
+#wrapper{
+	width: 970px;
+	font-family: "Trebuchet MS";
+	padding: 0;
+}
+
+
+body {
+ margin-top: 0px;
+ margin-right: 0px;
+ margin-bottom: 0px;
+ margin-left: 0px
+}
+
+/*HEADER*/
+#header{
+	background-color: #790000;
+	height: 67px;
+	width:970px;
+}
+
+#left-header{
+	background-image:url('http://i.imgur.com/2Jcxynp.png');
+    background-repeat:no-repeat;
+    height: 67px;
+    width: 250px;
+    display: inline-block;
+    margin-left: 45px;
+}
+
+#middle-header{
+	display: inline-block;
+	position: absolute;
+	width: 200px;
+	padding-left: 310px;
+	margin-top: -70px;
+}
+
+.header-font{
+	color: white;
+	font-family: "Comic Sans MS";
+	font-size: 18px;
+	letter-spacing: 1.5px;
+}
+
+#right-header{
+	display: inline-block;
+	position: absolute;
+	width: 400px;
+	padding-left: 600px;
+	margin-top: -75px;
+
+}
+
+#top-right-header{
+
+}
+
+#text-size{
+	list-style-type: none;
+	font-size: 12px;
+	
+
+}
+
+#text-size li{
+	list-style-type: none;
+	display: inline;
+	color: white;
+
+}
+
+#text-size a{
+	color: #ffcc66;
+	}
+
+#middle-right-header{
+	margin-left: 100px;
+	
+}
+
+input[type=submit]{
+	padding:2px 6px; 
+	background: #790000; 
+	border:1px white solid;
+	cursor:pointer;
+	color: white;
+	font-size: 9px;
+
+}
+
+input[placeholder]{
+	padding-left: 5px;
+}
+
+#bottom-right-header{
+	
+}
+/*TOP NAV*/
+#top-navigation{
+	width: 968px;
+	height: 25px;
+	background-color: #efefef;
+	border: 1px solid #b4b4b4;
+	}
+
+#top-navigation li{
+	list-style-type: none;
+	display: inline;
+	color: #666666;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+#top-navigation ul{
+	position: absolute;
+	margin-top: 3px;
+}
+
+/*LEFT NAV*/
+#left-navigation{
+	height: 250px;
+	width: 170px;
+	background-color: #eeeeee;
+	display: inline-block;
+	vertical-align: top;
+	margin: 20px 0 0 40px;
+	border: solid #d4d4d4 1px;
+
+}
+
+#left-navigation a{
+	color: #990000;
+
+}
+
+#left-navigation li{
+	list-style-image: url("red-arrows.png");
+	margin: 2px;
+	font-size: 12px;
+	margin: 0px 0 5px -10px;
+	padding-top: 2px;
+	letter-spacing: .75px;
+}
+
+/*BODY*/
+#body{
+	height: 750px;
+	width: 665px;
+	display: inline-block;
+	margin: 5px 0 0 10px;
+	letter-spacing: .65px;
+
+}
+
+#top-body{
+
+	border-bottom: 2px gray solid;
+	height: 370px;
+	width: 675px;
+
+}
+
+#top-body a{
+	color: #990000;
+
+}
+
+
+#top-body li{
+	margin: 2px;
+	font-size: 12px;
+	margin: 0px 2px 0px 5px;
+	padding-top: 2px;
+	letter-spacing: .75px;
+}
+
+#middle-body{
+	border-bottom: 2px gray solid;
+	height: 115px;
+	width: 675px;
+
+}
+
+#bottom-body{
+	height: 125px;
+
+}
+
+
+/*FONTS*/
+
+h1{
+	color: #790000;
+	font-size: 20px;
+}
+
+h2{
+	color: #790000;
+	font-size: 16px;
+}
+
+#top-body p{
+	font-size: 13px;
+	
+
+}
+
+#middle-body li{
+	font-size: 13px;
+	letter-spacing: .65px;
+
+}
+
+#bottom-body p{
+	font-size: 13px;
+	letter-spacing: .65px;
+
+}
+
+#bottom-body li{
+	font-size: 13px;
+	letter-spacing: .65px;
+	list-style-type: decimal;
+	margin-left: 10px ;
+}
+
+#bottom-body a{
+	color: #790000;
+}
+
